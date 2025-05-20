@@ -1,6 +1,8 @@
 # 🌤️🌍 WeatherCLI
 
-🚀 **Tez, oson va terminalda ishlaydigan ob-havo ilovasi**
+<br>
+
+ 🚀 **Tez, oson va terminalda ishlaydigan ob-havo ilovasi**
 
 
 
